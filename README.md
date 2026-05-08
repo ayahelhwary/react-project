@@ -44,6 +44,7 @@ Make sure you have the following installed:
 ### 1. Clone or extract the project
 
 ```bash
+unzip react_project.zip
 cd "react project"
 ```
 
