@@ -114,17 +114,3 @@ src/
 | Jest              | Unit & integration testing   |
 | localStorage      | Client-side data persistence |
 | dummyjson.com API | Initial student data seeding |
-
----
-
-## 📬 Author
-
-- **Name:** Aya Elhwary  
-- **Track:** DevOps  
-- **Email:** elhwarya810@gmail.com 
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](./LICENSE).
