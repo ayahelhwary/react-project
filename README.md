@@ -114,3 +114,9 @@ src/
 | Jest              | Unit & integration testing   |
 | localStorage      | Client-side data persistence |
 | dummyjson.com API | Initial student data seeding |
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE).
